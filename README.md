@@ -38,7 +38,7 @@ garbage_classifier/
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 * **Language:** Python 3.x
 * **Deep Learning Framework:** TensorFlow / Keras
 * **Pre-trained Architecture:** MobileNetV2
