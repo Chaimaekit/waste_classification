@@ -9,8 +9,7 @@ print("TensorFlow Version:", tf.__version__)
 print("GPU Available:", tf.config.list_physical_devices('GPU'))
 
 # 2. Define your local dataset path
-# Replace this with the relative or absolute path to your local 'TrashType_Image_Dataset' folder
-# Example (if the folder is in the same directory as this script):
+# Replace this with the relative or absolute path to your local 'garbage_dataset' folder
 data_dir = "./garbage_dataset"
 
 if os.path.exists(data_dir):
